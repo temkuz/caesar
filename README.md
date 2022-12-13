@@ -6,13 +6,13 @@ Simple realisation for caesar cipher
 
 For linux
 ```commandline
-python3 setup.py
+python3 setup.py install
 ```
 
 For windows
 
 ```commandline
-py .\setup.py
+py .\setup.py install
 ```
 
 Usage
