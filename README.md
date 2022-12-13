@@ -4,15 +4,8 @@ Simple realisation for caesar cipher
 
 ## Installation
 
-For linux
 ```commandline
-python3 setup.py install
-```
-
-For windows
-
-```commandline
-py .\setup.py install
+pip install .
 ```
 
 Usage
